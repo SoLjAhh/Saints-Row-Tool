@@ -10,9 +10,7 @@ Tkinter GUI.
 
 | File | What it is |
 |------|-----------|
-| `sr2_package.py` | The core: `PackageFile.read / extract_entry / extract_all / from_directory / write / write_payloads`. No third-party deps. |
-| `sr2_gui.py` | Tkinter GUI: open, list, **edit** (.lua/.xtbl/text), extract, build, save. |
-| `sr2_cli.py` | Command-line wrapper for headless testing. |
+| `Saints_Row_Package_Tool.py` | Tkinter GUI: open, list, **edit** (.lua/.xtbl/text), extract, build, save. |
 
 ## Supported file names
 
